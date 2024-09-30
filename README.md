@@ -1,5 +1,3 @@
-# BrainsterChallenges_LutmiraPeciFE3
-
 ## Dynamic Day Planner
 
 This project is a **Dynamic Day Planner** that allows users to manage their daily tasks by adding, removing, and saving tasks to local storage. The planner highlights tasks that are scheduled for the current day to visually inform the user.
